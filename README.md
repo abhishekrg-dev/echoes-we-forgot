@@ -8,7 +8,7 @@ An interactive digital museum preserving disappearing everyday sounds and lost a
 
 Every generation loses a few sounds it never meant to lose — a dial-up modem, a school bell, the whir of a VHS rewinding. *Echoes We Forgot* is an interactive museum that archives them before they're gone completely, pairing each fragment with the story of why it faded.
 
-**[🔗 Live Demo](#)** · **[🎨 Wonder Design File](#)** · **[🎥 Walkthrough Video](#)**
+**https://echoes-we-forgot.netlify.app/** · **[🎨 Wonder Design File](#)** · **[🎥 Walkthrough Video](#)**
 
 ---
 
